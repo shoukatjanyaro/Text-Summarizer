@@ -9,4 +9,3 @@ protobuf
 huggingface_hub
 numpy
 tqdm
-pillow==9.5.0
