@@ -1,6 +1,6 @@
 streamlit==1.32.0
 transformers==4.41.2
-torch
+torch==2.2.0+cpu
 requests
 PyPDF2
 beautifulsoup4
@@ -9,3 +9,4 @@ protobuf
 huggingface_hub
 numpy
 tqdm
+pillow==9.5.0
