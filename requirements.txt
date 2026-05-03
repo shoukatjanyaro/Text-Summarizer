@@ -1,6 +1,6 @@
 streamlit==1.32.0
 transformers==4.41.2
-torch==2.2.0
+torch
 requests
 PyPDF2
 beautifulsoup4
